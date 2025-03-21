@@ -1,6 +1,8 @@
 Central Node IOC
 ----------------
 
+[DOE Code](https://www.osti.gov/doecode/biblio/11505)
+
 This is the MPS Central Node IOC (sioc-sys2-mp01), which runs on cpu-li00-mp01.
 
 Configuration
