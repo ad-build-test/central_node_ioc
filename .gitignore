@@ -6,7 +6,6 @@ O.*
 *.bak
 envPaths
 cpuEnv.sh
-RELEASE_SITE
 bin/
 lib/
 include/
